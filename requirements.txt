@@ -1,0 +1,11 @@
+fastapi>=0.95
+uvicorn[standard]>=0.22
+sqlalchemy>=1.4
+asyncpg>=0.28
+redis>=4.5
+python-jose>=3.3
+pydantic>=1.10
+alembic>=1.11
+httpx>=0.24
+pytest>=7.3
+prometheus-client>=0.16
